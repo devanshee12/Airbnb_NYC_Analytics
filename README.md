@@ -44,8 +44,7 @@ This project analyzes Airbnb listings in **New York City** to understand **prici
   - Average availability per borough
 <img width="538" height="374" alt="Screenshot 2025-09-02 at 1 08 41 PM" src="https://github.com/user-attachments/assets/06e8518c-bc48-448a-9bf8-194000f73551" />
 
-
-    <img width="429" height="347" alt="Screenshot 2025-09-02 at 3 37 10 PM" src="https://github.com/user-attachments/assets/531ed66d-f7ce-4289-a33b-639a0fc6699d" />
+ <img width="429" height="347" alt="Screenshot 2025-09-02 at 3 37 10 PM" src="https://github.com/user-attachments/assets/531ed66d-f7ce-4289-a33b-639a0fc6699d" />
 
 
 ### 3. Geospatial Analysis
